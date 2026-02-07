@@ -1,0 +1,5 @@
+{
+  "name": "BrandCraft: Instant AI Identity",
+  "description": "A high-speed branding engine for hackathon founders. Generates names, taglines, and color palettes using Gemini 3.",
+  "requestFramePermissions": []
+}
